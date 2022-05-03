@@ -4,5 +4,5 @@
 - Email: vhjurczyszyn@gmail.com 
 
 **Aula dia 03/05/2022**
-> Foram definidos os grupos que trabalharam para o projeto futuro.
-> Foi apontado as dificuldades definidas no daily scrum, em principal foi dificuldade com o uso do git
+<p> Foram definidos os grupos que trabalharam para o projeto futuro.
+<p> Foi apontado as dificuldades definidas no daily scrum, em principal foi dificuldade com o uso do git
