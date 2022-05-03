@@ -6,3 +6,6 @@
 **Aula dia 03/05/2022**
 - Foram definidos os grupos que trabalharam para o projeto futuro.
 - Foi apontado as dificuldades definidas no daily scrum, em principal foi dificuldade com o uso do git
+- Comentado sobre o site Zlibrary, que é uma forma de encontrar livros gratuitamente online que vão auxiliar no
+avanço da aula
+- Introdução ao git para os alunos que perderam as primeiras aulas.
