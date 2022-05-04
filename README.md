@@ -7,7 +7,7 @@
 - Foram definidos os grupos que trabalharam para o projeto futuro.
 - Foi apontado as dificuldades definidas no daily scrum, em principal foi dificuldade com o uso do git
 - Comentado sobre o site Zlibrary, que é uma forma de encontrar livros gratuitamente online que vão auxiliar no
-avanço da aula
+  avanço da aula
 - Introdução ao git para os alunos que perderam as primeiras aulas, instalação, configuração do git no terminal
     - foi demonstrado a utilidade do .gitignore.
     - adicinar novos repositorio com o git add .
@@ -15,3 +15,5 @@ avanço da aula
     - git push aplica as atualizações a nuvem
     - instalação do git graph 
     - git commit -a : comita tudo sem descrição
+    - git pull (download novamente : só para verificar se está tudo ok)
+    
