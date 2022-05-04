@@ -13,4 +13,5 @@ avanço da aula
     - adicinar novos repositorio com o git add .
     - git commit -m descrição para o historico de atualizações
     - git push aplica as atualizações a nuvem
-    
+    - instalação do git graph 
+    - git commit -a : comita tudo sem descrição
