@@ -8,4 +8,5 @@
 - Foi apontado as dificuldades definidas no daily scrum, em principal foi dificuldade com o uso do git
 - Comentado sobre o site Zlibrary, que é uma forma de encontrar livros gratuitamente online que vão auxiliar no
 avanço da aula
-- Introdução ao git para os alunos que perderam as primeiras aulas.
+- Introdução ao git para os alunos que perderam as primeiras aulas, instalação, configuração do git no terminal
+    foi demonstrado a utilidade do .gitignore.
