@@ -9,4 +9,8 @@
 - Comentado sobre o site Zlibrary, que é uma forma de encontrar livros gratuitamente online que vão auxiliar no
 avanço da aula
 - Introdução ao git para os alunos que perderam as primeiras aulas, instalação, configuração do git no terminal
-    foi demonstrado a utilidade do .gitignore.
+    - foi demonstrado a utilidade do .gitignore.
+    - adicinar novos repositorio com o git add .
+    - git commit -m descrição para o historico de atualizações
+    - git push aplica as atualizações a nuvem
+    
