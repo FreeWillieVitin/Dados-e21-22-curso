@@ -44,7 +44,10 @@
   - Conversamos em conjunto, foi relembrado o que foi visto na aula passada, ninguem teve duvidas sobre o portugol 
 - Preparação aos exercícios de hoje
 - Aprofundamento em bibliotecas
-  - 
+  - SWAP (Substituição de informações armazenadas na memoria)
+  - Plugins: è um componente que acompanha uma aplicação pronta
+  - Import: comando para importar bibliotecas
+  
   
  
     
