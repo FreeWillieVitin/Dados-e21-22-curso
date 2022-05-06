@@ -25,6 +25,7 @@
   - Conceitos basicos de portugol
   - Variaveis e constante
   - Pratica de exercicios em grupo e pratica com o professor
+  - Ensinamento e pratica de if e else
   
  
     
