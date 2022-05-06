@@ -16,4 +16,19 @@
     - instalação do git graph 
     - git commit -a : comita tudo sem descrição
     - git pull (download novamente : só para verificar se está tudo ok)
+ 
+ **Aula dia 05/05/2022**
+
+-Daily Scrum padrão 
+-Uma breve revisão sobre os conteúdos e algumas informações importantes para o decorrer do curso
+-Introdução ao portugol
+  -Conceitos basicos de portugol
+  -Variaveis e constante
+  -Pratica de exercicios em grupo e pratica com o professor
+  
+  
+
+18:45 Aula - conteudo
+[ok] Agenda diaria (esta aqui) [ok] Visão do tempo (onde estamos nas semanas) [ok] Aula quarta-feira que vem (aula magna)
+[ok] Grupos de Telegram Criar os grupos e adiconar como adm nome do grupo deve ser: e2122-dados-grupo-1- e2122-dados-grupo-2- e2122-dados-grupo-3- e2122-dados-grupo-4 e2122-dados-grupo-5 [ok] Portugol
     
