@@ -41,8 +41,10 @@
 **Aula dia 06/05/2022**
 
 - Daily Scrum
-  - COnversamos em conjunto, foi relembrado o que foi visto na aula passada, ninguem teve duvidas sobre o portugol 
-  
+  - Conversamos em conjunto, foi relembrado o que foi visto na aula passada, ninguem teve duvidas sobre o portugol 
+- Preparação aos exercícios de hoje
+- Aprofundamento em bibliotecas
+  - 
   
  
     
