@@ -24,6 +24,7 @@
 - Introdução ao portugol
   - Conceitos basicos de portugol
   - Variaveis e constante
+  - Tipo de dados: inteiro, string, real
   - Pratica de exercicios em grupo e pratica com o professor
   - Ensinamento e pratica de if e else
   
