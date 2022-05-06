@@ -20,6 +20,7 @@
  **Aula dia 05/05/2022**
 
 - Daily Scrum padrão 
+'''Apartir da proxiam aula as scruns terão o tempo maximo de 1 minuto'''
 - Uma breve revisão sobre os conteúdos e algumas informações importantes para o decorrer do curso
 - Introdução ao portugol
   - Conceitos basicos de portugol
@@ -33,7 +34,9 @@
     - != #Diferente
     - => #Maior ou Igual
     - =< #Menor ou Igual
-  
+  - Vicios de programação.
+- Bibliotecas e a importancia delas, atraves de uma função, que sãoconjunto de módulos e funções úteis que reduzem o uso de código no programa. 
+  - Uso do pip para instalar bibliotecas python 
   
   
  
