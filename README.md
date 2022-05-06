@@ -31,8 +31,8 @@
   - Operadores logicos 
     - == #Igual
     - != #Diferente
-    - >= #Maior ou Igual
-    - <= #Menor ou Igual
+    - => #Maior ou Igual
+    - =< #Menor ou Igual
   
   
   
