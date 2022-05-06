@@ -37,6 +37,8 @@
   - Vicios de programação.
 - Bibliotecas e a importancia delas, atraves de uma função, que são conjunto de módulos e funções úteis que reduzem o uso de código no programa basicamente codigos prontos. 
   - Uso do pip para instalar bibliotecas python 
+
+**Aula dia 06/05/2022**
   
   
  
