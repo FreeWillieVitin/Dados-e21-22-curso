@@ -1,3 +1,4 @@
+**Exercicio 1**
 programa {
 	funcao inicio() {
 		real a, b, t
@@ -11,6 +12,41 @@ programa {
 		t = b * a
 		
 		escreva("A soma da area do retangulo é:", t, "cm")
+		
+	}
+}
+
+**Exercicio 1.2**
+programa 
+{
+	funcao inicio()
+	{
+		real a, b, m, t
+		
+		escreva("Digite a frente: ")
+		leia(a)
+		
+		escreva("Digite a lateral: ")
+		leia(b)
+		
+		m = a * b
+	    
+	    se(m<=1000)
+	    {
+	    escreva("A area é do terreno ", m, "m2")   
+	    }
+	     se(m<=5000)
+	     {
+	     escreva("A area é do sitio ", m, "m2")
+	     }
+	     se(m<=10000)
+	     {
+	     escreva("A area é de 1 hectare ", m, "m2")    
+	     }
+	     senao
+	     {
+	     escreva("A area é de uma fazenda ", m, "m2")      
+	     }
 		
 	}
 }
