@@ -1,0 +1,16 @@
+programa {
+	funcao inicio() {
+		real a, b, t
+		
+		escreva("Digite a base: ")
+		leia(b)
+		
+		escreva("Digite a altura: ")
+		leia(a)
+		
+		t = b * a
+		
+		escreva("A soma da area do retangulo é:", t, "cm")
+		
+	}
+}
