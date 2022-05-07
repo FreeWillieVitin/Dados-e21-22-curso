@@ -1,0 +1,28 @@
+programa {
+	funcao inicio() {
+		real a, b, c, d
+		
+		escreva("Digite aqui o seu salario: ")
+		leia(a)
+		
+		se (a <= 1000)
+		{
+		 escreva("Seu desconto sera de: ", a * 5 / 100 )   
+		}
+		se (a > 1000 e a <= 2000)
+		{
+		 escreva("Seu desconto sera de: ", a * 7 / 100 )   
+		}
+		se (a > 2000 e a <= 4000)
+		{
+		 escreva("Seu desconto sera de: ", a * 9 / 100 )   
+		}
+		se (a >= 10000)
+		{
+		escreva("Seu desconto sera de: ", a * 10 / 100 )   
+		}
+		
+		
+		
+	}
+}
