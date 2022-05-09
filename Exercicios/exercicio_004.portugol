@@ -1,0 +1,26 @@
+programa {
+  
+    funcao real calcula (real a, real b) {
+    real resultado
+    resultado = a*b 
+    retorne resultado
+  
+  }
+
+  funcao inicio() {
+    
+    real a,b
+    faca{
+    escreva ("Entre com um valor: \n")
+    leia (a)
+
+    escreva ("Entre com um segundo valor: \n")
+    leia (b)
+    limpa ()
+
+    }
+    enquanto (calcula (a,b) <1000) 
+
+    escreva ("O resultado é: " , calcula(a,b))
+  }
+}
