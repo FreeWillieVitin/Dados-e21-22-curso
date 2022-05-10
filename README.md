@@ -49,7 +49,5 @@
   - Import: comando para importar bibliotecas
 - Realizados os exercicios propostos em grupo
 
-**Aula dia 09/05/2022**
-  
  
     
