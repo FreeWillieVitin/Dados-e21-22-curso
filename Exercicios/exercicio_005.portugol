@@ -1,0 +1,54 @@
+programa {
+    
+    inclua biblioteca Util 
+    
+	funcao inicio() {
+	    
+	        inteiro cont = 5	
+	        inteiro candidatos, votos, brancos, nulos, a, b, c
+	        
+	        	
+	    	enquanto (cont > 0)
+		{
+			limpa()
+			escreva ("Iniciando a urna: ", cont
+			
+			cont = cont - 1
+		  	Util.aguarde(1000)
+		}
+            faca
+            {
+            escreva("Digite o codigo do seu candidato\n")
+            escreva(" 1. Pedro \n 2. Victor \n 3. Jorge \n")
+            escreva("Digite para voto branco \n")
+            escreva("Valor vazio ou outro que não seja os especificados acima sera anulado")
+            leia (candidatos)
+            {
+                caso 0:
+
+                    escreva("Voto Nulo")
+                    nulos = nulos + 1
+                    pare
+                    
+                caso 1:
+                    escreva("Voto no Pedro")
+                    a = a + 1
+                pare
+
+                caso 2:
+                    escreva("Voto no Victor")
+                    b = b + 1
+                pare
+
+                caso 3:
+                    escreva("Voto no Jorge")
+                    c = c + 1  
+                pare  
+
+                caso se (candidatos > 3)
+                    escreva("Voto em branco")
+                    brancos = brancos + 1
+                pare    
+              }
+	}
+}
