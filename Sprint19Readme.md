@@ -7,3 +7,9 @@
   - Visto o exemplo da bomba, que tinha um laço que fazia a contagem regressiva até chegar em zero e alcançar o objetivo que era explodir a bomba
   - Visto um pouco sobre case
   - Exercicios de repetição em grupo para treinar laços (faça, enquanto, para)
+
+**Aula dia 10/05/2022**
+
+- Termino dos exercicios
+- Inicio das funções que são basicamente codigos que são armazenados e são disparados apartir de um gatilho onde for descrito em qualquer area do codigo
+- Mais exercicio de fixação
