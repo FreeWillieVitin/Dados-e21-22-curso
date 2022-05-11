@@ -1,54 +1,82 @@
-programa {
-    
-    inclua biblioteca Util 
-    
-	funcao inicio() {
-	    
-	        inteiro cont = 5	
-	        inteiro candidatos, votos, brancos, nulos, a, b, c
-	        
-	        	
-	    	enquanto (cont > 0)
+programa 
+{
+	inclua biblioteca Util 
+	
+	funcao inicio() 
+	{
+		inteiro contador = 5
+		
+		inteiro a = 0, b = 0, c = 0
+		
+		inteiro brancos = 0, nulos = 0, total = 0
+		
+		real pa, pb, pc
+		
+		real pbrancos, pnulos
+		
+		inteiro voto
+		
+		enquanto (contador > 0)
 		{
 			limpa()
-			escreva ("Iniciando a urna: ", cont
-			
-			cont = cont - 1
-		  	Util.aguarde(1000)
+			escreva ("Iniciando a urna: ", contador)
+		  	
+		  	contador = contador - 1
+		  	Util.aguarde(1000) // Aguarda 1000 millisegundos (1 segundo)
+		
+
+		limpa()
+
+                
+                 escreva("Digite o codigo do seu candidato\n")
+                 escreva(" 1. Pedro \n 2. Victor \n 3. Jorge \n")
+                 escreva("Digite para voto branco \n")
+                 escreva("Valor vazio ou outro que não seja os especificados acima sera anulado")
+               	escolha (voto)
+			{
+				caso 0:
+					nulos = nulos + 1
+				pare
+				
+				caso 1: 
+			 		a = a + 1 
+			 	pare
+			 	
+			 	caso 2: 
+			 		b = b + 1 
+			 	pare
+			 	
+			 	caso 3: 
+			 		c = c + 1 
+			 	pare
+			 	
+			 	caso 4: 
+			 		brancos = brancos + 1
+			 	pare
+			 	
+			 	caso 999: 
+			 		escreva("Encerrado\n")
+			 	pare
+			 	
+			}			 
 		}
-            faca
-            {
-            escreva("Digite o codigo do seu candidato\n")
-            escreva(" 1. Pedro \n 2. Victor \n 3. Jorge \n")
-            escreva("Digite para voto branco \n")
-            escreva("Valor vazio ou outro que não seja os especificados acima sera anulado")
-            leia (candidatos)
-            {
-                caso 0:
+		enquanto(voto != 999)
+	    se (total > 0)
+		{
+			pa = (a * 100.0) / total  
+			pb = (b * 100.0) / total
+			pc = (c * 100.0) / total
+			pbrancos = (brancos * 100.0) / total
+			pnulos = (nulos * 100.0) / total
 
-                    escreva("Voto Nulo")
-                    nulos = nulos + 1
-                    pare
-                    
-                caso 1:
-                    escreva("Voto no Pedro")
-                    a = a + 1
-                pare
-
-                caso 2:
-                    escreva("Voto no Victor")
-                    b = b + 1
-                pare
-
-                caso 3:
-                    escreva("Voto no Jorge")
-                    c = c + 1  
-                pare  
-
-                caso se (candidatos > 3)
-                    escreva("Voto em branco")
-                    brancos = brancos + 1
-                pare    
-              }
+			escreva("\n")
+			
+			escreva("Total de votos: ", total, "\n\n")
+			escreva("Pedro: " , a, " voto(s). ", pa, " % do total\n" )
+			escreva("Victor: ", b, " voto(s). ", pb, " % do total\n" )
+			escreva("Jorge: ", c, " voto(s). ", pc, " % do total\n" )
+			escreva("Brancos: ", brancos, " voto(s). ", pbrancos, " % do total\n")
+			escreva("Nulos: ", nulos, " voto(s). ", pnulos, " % do total\n")
+		}
 	}
 }
