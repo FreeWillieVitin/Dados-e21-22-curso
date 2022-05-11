@@ -1,0 +1,70 @@
+**Exercicio: 001b: Versão 001 e 002.**
+
+programa {
+  funcao inicio() {
+        inteiro a = 4
+        inteiro b = 8
+        inteiro c = b * a
+        inteiro d = a + b + a + b
+
+        escreva(c, "\n") 
+        escreva(d)
+
+  }
+}
+
+**Exercicio: 001b: versão 003.**
+
+programa {
+  funcao inicio() {
+        inteiro a
+        inteiro b
+        inteiro c 
+        inteiro d 
+
+        
+        escreva("Digite a altura: \n")
+        leia(a)
+
+        escreva("Digite a base: \n")
+        leia(b)    
+        
+        
+        c = a + b + a + b
+        d = b * a
+        escreva(c, "\n") 
+        escreva(d)
+  }
+}
+
+**Exercicio: 001b: versão 004.**
+programa {
+  funcao inicio() {
+        inteiro a
+        inteiro b
+        inteiro c 
+        inteiro d 
+
+        
+        escreva("Digite a altura: \n")
+        leia(a)
+
+        escreva("Digite a base: \n")
+        leia(b)    
+        
+        
+        c = a + b + a + b
+        d = b * a
+
+        escreva(c, "\n") 
+        escreva(d)
+
+             {
+                se (d > c) 
+                escreva("area é maior do que perimetro ")
+                
+                senao
+                escreva("Perimetro é maior que area")
+                }
+  }
+}
