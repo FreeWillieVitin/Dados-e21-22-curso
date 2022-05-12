@@ -13,3 +13,9 @@
 - Termino dos exercicios
 - Inicio das funções que são basicamente codigos que são armazenados e são disparados apartir de um gatilho onde for descrito em qualquer area do codigo
 - Mais exercicio de fixação
+
+**Aula dia 12/05/2022**
+
+- Como as escolhas interferem no desenvolvimento de um software
+- Explicação sobre vetor e matriz
+- Exercicios com vetores
