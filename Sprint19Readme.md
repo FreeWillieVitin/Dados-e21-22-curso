@@ -17,5 +17,5 @@
 **Aula dia 12/05/2022**
 
 - Como as escolhas interferem no desenvolvimento de um software
+- Exercicios com vetores e geração de numeros aleatorios
 - Explicação sobre vetor e matriz
-- Exercicios com vetores
