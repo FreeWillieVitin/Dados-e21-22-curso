@@ -44,7 +44,7 @@ programa {
 # Exercicio 006 b ver 003 
 
     Crie um algoritmo que armazene 10 numeros resultantes da função randomica em 10 variavies diferentes
-
+  
     programa {
 
     inclua biblioteca Util

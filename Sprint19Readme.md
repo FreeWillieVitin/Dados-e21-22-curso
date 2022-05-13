@@ -19,4 +19,11 @@
 - Como as escolhas interferem no desenvolvimento de um software
 - Exercicios com vetores e geração de numeros aleatorios
 - Explicação sobre vetor e matriz
-  - Vetor é uma variavel com variaveis dentro com idexação
+
+**Aula dia 13/05/2022**
+
+- Conclusão dos exercicios dos alunos que ainda não terminaram
+- Auxilio na montagem de um projeto dividindo ele em partes
+- Foi conversado com a anxiedade pode atrapalhar na hora de programar, pois encurta o planejamento e não traz resultados satisfatorios
+- Aula aprofundada de vetor e introdução a matriz
+
