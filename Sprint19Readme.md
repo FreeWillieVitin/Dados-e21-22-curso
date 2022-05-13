@@ -19,3 +19,4 @@
 - Como as escolhas interferem no desenvolvimento de um software
 - Exercicios com vetores e geração de numeros aleatorios
 - Explicação sobre vetor e matriz
+  - Vetor é uma variavel com variaveis dentro com idexação
