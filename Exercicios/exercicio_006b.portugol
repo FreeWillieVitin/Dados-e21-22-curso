@@ -72,5 +72,18 @@ programa {
 
     Crie um algoritmo que armazene e imprima 10 numeros resultantes de uma funcao randomica utilizando um Vetor
 
-    
+   programa{
+  inclua biblioteca Util
+
+  funcao inicio(){
+    inteiro i, vet[10]
+
+    para(i = 0; i < 10; i++)
+      vet[i] = Util.sorteia(0, 10)
+
+    para(i = 0; i < 10; i++)
+      escreva(vet[i], " ")
+    escreva("\n")
+  }
+} 
 
