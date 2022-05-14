@@ -1,0 +1,16 @@
+#Exercico 004 - versão 001.
+Crie uma funcao que imprima uma mensagem ao ser chamada.
+
+
+    programa 
+{
+	funcao vazio mensagem() 
+    {
+    escreva("Olá mundo!!")
+    }
+        funcao inicio() 
+    	{
+	    mensagem()
+		
+        }
+}
