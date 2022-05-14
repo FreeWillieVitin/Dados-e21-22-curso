@@ -26,4 +26,6 @@
 - Auxilio na montagem de um projeto dividindo ele em partes
 - Foi conversado com a anxiedade pode atrapalhar na hora de programar, pois encurta o planejamento e não traz resultados satisfatorios
 - Aula aprofundada de vetor e introdução a matriz
+  - Demonstração de vetor e matriz com exemplos em planilhas
+- Introdução em dicionario de dados
 
