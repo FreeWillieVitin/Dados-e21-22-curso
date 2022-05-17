@@ -5,3 +5,4 @@ num = input("Digite um numero: ")
 num = float(num)
 
 print(f"O numero convertido é {num}")
+print(type(num))
