@@ -5,3 +5,4 @@
 - Configuração do discord e divisão das salas  
 - Primeiros exercicios em python
     - Execução dos primeiros exercicios apartir do terminal
+    - comentarios em python, reaproveitamento de codigo, uso de variaveis, conversão de tipo, funmção de contagem len
