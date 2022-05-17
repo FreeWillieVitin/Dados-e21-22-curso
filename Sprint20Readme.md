@@ -3,3 +3,5 @@
 - Instalação do python (Eu já tinha instalado entao nao tive problema com isso)
     - Verificação da versão do python e do PIP, usando o (py -V e o pip -v)
 - Configuração do discord e divisão das salas  
+- Primeiros exercicios em python
+    - Execução dos primeiros exercicios apartir do terminal
