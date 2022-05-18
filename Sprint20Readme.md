@@ -8,3 +8,6 @@
     - comentarios em python, reaproveitamento de codigo, uso de variaveis, conversão de tipo, funmção de contagem len
 
 **Aula dia 17/05/2022**
+
+- Acompanhamento e desenvolvimento de mais exercicios basicos de python
+    - Conteúdo dos exercicios: Listas, Range, Contagem de caracteres
