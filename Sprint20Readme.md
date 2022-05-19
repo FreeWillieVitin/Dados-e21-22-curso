@@ -11,3 +11,7 @@
 
 - Acompanhamento e desenvolvimento de mais exercicios basicos de python
     - Conteúdo dos exercicios: Listas, Range, Contagem de caracteres
+
+**Aula dia 19/05/2022**
+
+
