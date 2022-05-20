@@ -5,3 +5,4 @@ def funcao1(num):
 
 num = int(input('Digite um numero: '))
 retorno = funcao1(num)
+print(retorno)

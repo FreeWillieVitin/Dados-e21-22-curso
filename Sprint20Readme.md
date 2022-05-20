@@ -13,5 +13,11 @@
     - Conteúdo dos exercicios: Listas, Range, Contagem de caracteres
 
 **Aula dia 19/05/2022**
-
-
+- Demosntração e execução de mais exercicios
+    - conhecimento de novas funções
+    - append adiciona ao final da lista
+    - importação
+    - insert, delete e index
+    - Introdução a biblioteca de dados, criação das primeiras bibliotecas com função dict
+- json: dicionario de dados
+- Lista com dicionarios dentro
