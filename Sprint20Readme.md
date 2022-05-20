@@ -21,3 +21,5 @@
     - Introdução a biblioteca de dados, criação das primeiras bibliotecas com função dict
 - json: dicionario de dados
 - Lista com dicionarios dentro
+
+**Aula dia 20/05/2022**
