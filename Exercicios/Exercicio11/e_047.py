@@ -1,12 +1,4 @@
 #e_047.py
-aluno = [{
-    'Nome': 'Adriano', 
-    'Notas': [4.7,37.9,79.2]    
-    }]
-
-print("Fase1:------------")
-print(aluno)
-
 def calcula_media(aluno):
     print("Fase2:------------")
     notas = []
@@ -19,6 +11,16 @@ def calcula_media(aluno):
             temp =0 
         notas.append({'Nome':media['Nome'],'Media das notas': temp})
     print (notas)
+
+
+aluno = [{
+    'Nome': 'Adriano', 
+    'Notas': [4.7,37.9,79.2]    
+    }]
+
+print("Fase1:------------")
+print(aluno)
+
 
 media_estudante = calcula_media(aluno)
 print("Fase3:------------")
