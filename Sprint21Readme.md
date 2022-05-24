@@ -6,4 +6,5 @@
     - Função com valor padrão
     - *arg, **kwargs: chaves e valores 
     - Classe tupla: é um tipo de dados de sequência que pode conter elementos de diferentes tipos de dados, uma tupla é uma coleção de objetos Python separados por vírgulas. A tupla é mais rápida do que a lista devido à sua natureza estática.
-    
+
+**Aula dia 24/05/2022**   
