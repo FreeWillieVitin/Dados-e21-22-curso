@@ -6,6 +6,4 @@ def id(*args,**kwargs):
         print(f'{n}')
     
         for k,v in kwargs.items():            
-            
-
-id('Victor', idade=24,sexo='M')
+            id('Victor', idade=24,sexo='M')
