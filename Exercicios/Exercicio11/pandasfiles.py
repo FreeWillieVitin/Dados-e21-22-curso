@@ -10,5 +10,5 @@ def importa_planilha(colunas):
     # print(dd)
     return df.to_dict('index')
 
-importa_planilha('id')
+#importa_planilha('id')
     #df = pd.read_csv(url_or_file, index_col=0, header=0, usecols=colunas)
