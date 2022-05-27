@@ -11,3 +11,4 @@
 
 - Usando bibliotecas pandas
 - Instalação do pandas (pip install pandas)
+    - Exercicios inicio de programação com biblioteca pandas
