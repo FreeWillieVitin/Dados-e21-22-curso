@@ -4,7 +4,8 @@
 - Uso do pass como uma forma de deixar um espaço em branco que sera codado futuramente
 - Criaçao de funções basicas para mostrar como ela trabalha com parametros (def nome_da_função(parametros): abaixo fica o que a função vai receber)
     - Função com valor padrão
-    - *arg, **kwargs: chaves e valores 
+    - *arg:  Somente os valores
+    - **kwargs: os parametros e os valores 
     - Classe tupla: é um tipo de dados de sequência que pode conter elementos de diferentes tipos de dados, uma tupla é uma coleção de objetos Python separados por vírgulas. A tupla é mais rápida do que a lista devido à sua natureza estática.
 
 **Aula dia 24/05/2022**   
@@ -21,4 +22,10 @@
     - Criaçãa de listas com SubListas
     - While para listas, enquanto nao for alcançado as definições o sistema nao para
     - break para interromper o processo
-- Codificação de arquivos UTF-8 e a importancia dele em arquivos de texto e como ele é traduzido por 
+- Codificação de arquivos UTF-8 e a importancia dele em arquivos de texto e como ele é traduzido
+
+**Aula dia 27/05/2022**
+
+- Função de um laço que chama ele mesmo
+- Modulo: mini divisão do programa em partes
+- Criando um Virtual Enviroment
