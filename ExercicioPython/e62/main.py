@@ -11,7 +11,7 @@ if usuario in cadastro_plano.usuarios.keys():
         usuario = 'Marieli'
     print('Bem vindo(a)', usuario)
 else:
-    print('Usuário não cadastrado')
+    print('Usuário não cadastrado deseja cadastrar? (S ou N)')
 
 menu = str(input('Deseja agendar uma consulta? (S ou N)')).upper().strip()
 
