@@ -20,3 +20,4 @@
         - Método é uma função interna que recebe parametros de classes(atributos da classe), ele pode ser chamado de inicializador
         - função __init__(self, ...) função reservada do sistema que indica a inicialização dentro de uma classe e roda a classe dentro da função quando é inicializada(Self é apenas uma referencia que indica que os dados serão guardados dentro da classe)
     - Identação
+    - Parametros são atributos da classe ex: nome da classe(a, tri, bu, tos)
