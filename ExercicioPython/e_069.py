@@ -11,3 +11,4 @@ item1 = input('Digite um item: ')
 item2 = input('Digite um item: ')
 
 print(f'Produto {item1} e produto {item2} foram cadastrados')
+

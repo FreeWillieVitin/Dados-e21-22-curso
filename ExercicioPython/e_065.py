@@ -1,10 +1,8 @@
 #e_065.py
 
 class Carro:
-    nome = 'Gol'
-    ano = 2006
-    cor = 'Vermelho'
+  def __init__(self, nome, ano, cor):
+        self.nome = nome
+        self.ano = ano
+        self.cor = cor
 
-print(Carro.nome)
-print(Carro.ano)
-print(Carro.cor)        
