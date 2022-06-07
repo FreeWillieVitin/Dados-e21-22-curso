@@ -2,7 +2,7 @@
 #Escreva um programa que recebe um texto do usuário e o converte para código morse, 
 #exibindo em tela o texto em formato Morse, segundo a padronização '.-' (Ponto, traço)
 
-morse = ' '
+morse = " "
 
 Cod_morse = { 'A':'.-', 'B':'-...',
 			'C':'-.-.', 'D':'-..', 'E':'.',
@@ -22,8 +22,9 @@ Cod_morse = { 'A':'.-', 'B':'-...',
 texto1 = input('Digite aqui o texto: ').upper()
 
 for i in texto1:    
-    morse = Cod_morse[i]
     if i != " ":
-        print("{} = {}".format(i, morse))
+        morse += Cod_morse[i.upper()]
     else:
-        print(morse)
+        morse += i
+
+print("Texto codificado: {}".format(morse))
