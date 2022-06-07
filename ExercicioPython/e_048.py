@@ -39,11 +39,11 @@ for pkeys, pvalues in base.items():
     for rkeys, rvalues in pvalues['alternativas'].items():
         # print(f'[{rkeys}]:{rvalues}')
 
-    resposta = input('Escolha uma alternativa: [a],[b],[c], ou [d]')
+        resposta = input('Escolha uma alternativa: [a],[b],[c], ou [d]')
         print('')
     if resposta == pvalues['resposta_certa']:
         print('Resposta Correta!!!')
-            respostas_certas += 1  # Corrigido em 23.05.2022
+        respostas_certas += 1  # Corrigido em 23.05.2022
     else:
         print('Resposta ERRADA')
 

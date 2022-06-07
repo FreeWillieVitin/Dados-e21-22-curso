@@ -6,5 +6,5 @@ def pessoa1(nome,idade=18, funcao='tecnico'):
     print(f'{nome} tem {idade} anos e sua funcao é {funcao}')
 
 
-p1 = pessoa1('Adriano', funcao='Professor')
+p1 = pessoa1('Victor', funcao='Programador')
 
