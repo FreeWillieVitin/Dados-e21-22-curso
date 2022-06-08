@@ -1,6 +1,6 @@
 #Parametros são atributos da classe
 class Pessoa:
-  def __init__(self,nome,idade,sexo=false,altura=false)
+  def __init__(self,nome,idade,sexo=False,altura=False):
     self.nome = nome
     self.idade = idade
     self.sexo = sexo
