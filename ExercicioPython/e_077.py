@@ -10,4 +10,4 @@ def valor(a,b):
 teste = input('Digite um valor: ')
 teste2 = input('Digite um valor: ')
 
-result = valor(teste,teste2)
+resultado = valor(teste,teste2)
