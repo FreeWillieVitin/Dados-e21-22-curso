@@ -13,4 +13,9 @@
       - trabalha em um repositorio de desenvolvimento, pois la pode ser feito varios testes, depois que for tudo testado e garantido que esta tudo correto, entao será commitado no repositorio produção
    - Comando diff: faz a comparação de versoes para dar um comparativo se as versoes dos softwares são iguais
    - Versões de softwares podem causar problemas quando são atualizados devido as mudanças que são aplicadas nelas, sempre testar antes em outro repositorio antes de aplicar uma atualização
+
+**Aula dia 10/06/2022**
+- Tupla é uma coleção de objetos não ordenados, são sequencias assim como listas, a diferença entre tuplas e listas é que tuplas não podem ser alteradas
+- CMS
+- FrameWork: "Caixa de ferramentas" que permite costumização de codigos
    

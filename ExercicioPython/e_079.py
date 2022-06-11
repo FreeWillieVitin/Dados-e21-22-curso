@@ -4,8 +4,9 @@ from num2words import num2words
 
 numero = int( input('Digite um número: ') )
 
-num_ptbr = num2words(numero, lang='pt-br')
-print(f'Número: {num_ptbr}')
 
-num_ptbr_ord = num2words(numero, lang='pt-br', to='ordinal')
-print(f'Número (ordinal): {num_ptbr_ord}')
+if numero <= 100 and numero >= 0:
+    num = num2words(numero, lang='pt-br')
+    print(f'Número: {num}')
+else:
+    print(f'Numero Invalido')
