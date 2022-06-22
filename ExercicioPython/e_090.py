@@ -4,14 +4,22 @@
 #  Mostre em tela a lista com seus respectivos elementos após serem ordenados. 
 
 lista = []
-add = "S"
-while add == "S":
-    lista.append(str(input('Digite um numero: ')))
-    input('Deseja inserir mais um numero? (S/N)')
-    if add not in ("N", "S"):
+sair = "S"
+while sair == "S":
+    num = input("Digite um numero: ")
+    sair = input("Deseja inserir mais um numero? (S/N): ")
+    if sair not in ("N", "S"):
         print("Por favor escolha S ou N")
-        add = "N"
+        sair = "S"
     else:
-        lista.append(str(input('Digite um numero: ')))
-    
+        lista.append(num)
+
+lista.sort()        
+print(lista)
+
+
+numeros = "4,3,5,7,2,1,0,8"
+print(numeros)
+lista = numeros.split(",")
+lista.sort()
 print(lista)
