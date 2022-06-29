@@ -11,4 +11,43 @@
     - Analista transforma ao dado em informações uteis e trabalhaveis, DBA é um admnistrador do banco que gerencia e trabalha com a manutenção, 
     aprimoramento e etc
 
+**Aula dia 28/06/2022**
+- o que é um banco de dados:
+    - Conjunto de informações organizadas em um formato onde os dados são:
+        - Armazenados
+        - Gerenciados
+        - Atualizados
+        - Recuperados
+    - Existem 2 tipos de bancos de dados:
+        - Banco de dados Relacionais
+            - Bancos de dados relacioanis é caracterizado pela forma como os dados são organizados
+            - Tabelas respeitam um SCHEMA. Determina como as tabelas devem ser compostas
+            (Linhas e Colunas)
+        - Banco de dados Não relacionais(NoSQL)
+    - Tabelas ou entidades
+    - Colunas ou tributo: unidade que armazena um tipo de valor
+    - Linhas ou tupla: São todos os dados referentes a um item
+- Tipos de dados existentes nas colunas:
+    - text: Tipo de texto
+    - integer: Tipos numéricos inteiros
+    - real: Tipos numericos reias
+    - null: Valor Nulo
+    - blob: Verdadeiro ou falso
+- Chaves (Primaria e estrangeira)
+    - Chave primaria: Server para dar exclusividade para um registro na tabela ou seja valores que nao podem se repetir
+        - Regras da chave primaria
+            - O valor deve ser unico
+            - Não pode nunca ser alterada
+            - Não pode ser valor null
+    - Chave Estrangeira(Foreign Key - FK): è o que referencia uma chave primaria em outra tabela
+- Relacionamento entre tabelas / Entidades:
+    - Relacioonamento é a associação entre as tabelas, que sao conectadas por chaves primarias(PK), Chaves Estrangeiras(FK)
+    - Tipos de relacionamento:
+        1:1 - Relacionamento em 1 linhas de uma tabelas com 1 linha de outra tabelas.
+        1:N - Relacionamento de 1 linha de uma tabela com muitas linhas de outras tabelas.
+        N:N - Relacionamentos de muitas linhas de uma tabela com muitas linhas de outra tabela
+    
+
+
+
 
