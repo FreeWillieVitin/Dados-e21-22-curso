@@ -46,7 +46,16 @@
         1:1 - Relacionamento em 1 linhas de uma tabelas com 1 linha de outra tabelas.
         1:N - Relacionamento de 1 linha de uma tabela com muitas linhas de outras tabelas.
         N:N - Relacionamentos de muitas linhas de uma tabela com muitas linhas de outra tabela
-    
+
+**Aula dia 30/06/2022**
+- Auto Relacionamento: Relacionamento de uma linha de uma mesma tabela com outra linha da mesma tabela
+
+- Modelo De Dados
+    - São formas visuais de mostrar a organização de uma base
+- Modelo de Dados Relacionais
+    - São formas visuais que mostram como cada entidade se organiza
+
+- Ferramentas de diagramas(diagrams.net, brmodelo, pode ser feito no paint, quickdatabasediagrams.com, dbeaver)
 
 
 
