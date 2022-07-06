@@ -57,6 +57,48 @@
 
 - Ferramentas de diagramas(diagrams.net, brmodelo, pode ser feito no paint, quickdatabasediagrams.com, dbeaver)
 
+**Aula dia 05/07/2022**
+- SQL
+    - Linguagem de comunicação com o banco de dados
+    - Sempre precisa de um cliente para conversar com um banco
+    - Structured Query Language
+- Organização
+    - SQL é dividido em 5 modelos(DDL, DCL, DTL, DML, DQL)
+    - DDL: Criação/Manutenção: Create, alter, drop
+    - DCL: COntrole de dados: Grant, Revoke
+    - DTL: GErenciamento de transações: Begin, Commit, Rollback
+    - DML: MAnipulação de dados: Insert, update, delete
+    - DQL: COnsulta: Select
+- DDL(Data Definition Language)
+  BEGIN TRANSACTION;
+
+    CREATE TABLE pessoas (
+        ID INTEGER PRIMARY KEY AUTOINCREMENT,
+        CPF      TEXT        NOT NULL,
+        NOME     TEXT        NOT NULL,
+        IDADE    INT         NOT NULL,
+        ENDERECO    CHAR(50),
+        SALARIO     REAL   
+    );
+    COMMIT;
+        ALTER TABLE TESTE 
+        ADD COLUMN ALTURA DECIMAL(10,2); 
+
+        DROP TABLE TESTE;
+
+- Mais atributos da table
+    - Auto Increment: Insere registros automaticamente valores aos campos seguindo uma ordem
+
+- Inserir dados em uma table
+    BEGIN TRANSACTION;
+        INSERT INTO TESTE(CPF, NOME, IDADE)
+        VALUES (111.318.679-80, "VICTOR HUGO", 24)
+    COMMIT;
+- select
+    select * from pessoas    
+
+
+    
 
 
 
