@@ -97,8 +97,32 @@
 - select
     select * from pessoas    
 
+**Aula dia 07/07/2022**
+- Select
+    - Select é usado para selecionar dados
+    - Distinct: Função que seleciona apenas registros que não são repetidos
+    - Where: Define um parametro de busca onde
+-  Operadores Logicos
+    - IN, Like, And, Or, Between
+    - IN: Retorna 1 se o valor testado estiver na lista
+    - LIKE: Retorna 1 se o valor testado coincidir com o padrão passado
+    - AND: Retorna 1 se as duas expressoes testadas forem 1
+    - OR: Retorna 1 se uma das duas expressores testadas forem 1
+    - BETWEEN: Retrona 1 se o valor testado estiver no intervalo passado
+- Order By
+    - Função sql que ordena os dados de uma tabela
+    - Se for inserido desc, vai ordenar a tabela de forma decrescente
+- Funções de agregação
+    - AVG, MIN, MAX, SUM, COUNT¨
+    - AVG: Faz o calculo da media, de uma coluna com dados inteiros
+    - MIN: Retorna o menor valor
+    - MAX: Retorna o maior valor
+    - SUM: Retorna a soma de valores
+    - COUNT: Conta a quantidade de linhas em uma tabela
+    - Group By: Agrupa valores de u8ma tabela
+- Junção de tabelas
+    - Uso de joins serve para juntar dados de uma tabela com a outra
 
-    
 
 
 
