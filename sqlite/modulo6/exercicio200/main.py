@@ -70,5 +70,5 @@ con.commit()
 # print(f'\n A quantidade de registros na tabela é de: {total}\n')
 
 cur.execute("Select A.NOME, A.IDADE, B.NOME_CIDADE, B.UF FROM PESSOAS AS A, CIDADES AS B ORDER BY B.UF, B.NOME_CIDADE, A.NOME, A.IDADE;")
-resultado = cur.fetchmany(2)
+resultado = cur.fetchmany(2000)
 print(resultado)
