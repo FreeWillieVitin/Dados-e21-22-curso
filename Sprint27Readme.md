@@ -18,3 +18,6 @@
     ------------|Rotas|----------------    
     * Models + Views + Templates
 - Rodar um aplicativo django: Python nome do arquivo 
+
+**Aula dia 22/08/2022**
+- Fazer dump do banco MySql mysqldump -h 3.89.36.150 -u e2122g2 -p e2122g2 PESSOAS > C:\users\victor\desktop\dump.sql
